@@ -1,0 +1,17 @@
+ALL TEST
+ALC ONLY TEST
+VANILLA ONLY TEST
+LOADING SCREEN TEST
+Loading Screens page
+Low memory protection
+Same place
+Auto travel
+Compare Test
+Saved tests
+Invalid Data
+Force other cleaners to clean
+Simulated Actions
+Advanced Test
+Memory display
+
+Bug Report:Lime
