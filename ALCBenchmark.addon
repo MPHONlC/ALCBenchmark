@@ -5,7 +5,7 @@
 ## APIVersion: 101051 101052
 ## Description: Tests every Auto Lua Memory Cleaner method, Memory Garbage Collector and Shissu's LUA Memory against the game on its own, with a loading screen step, and shows Lua memory, the add-on pool and what each freed. Type /alcbench.
 ## SavedVariables: ALCBenchmarkResults
-## DependsOn: LibAPH>=26100717
+## DependsOn: LibAPH>=26101801
 ## OptionalDependsOn: AutoLuaMemoryCleaner
 
 CORE/ALCBenchmark.lua
