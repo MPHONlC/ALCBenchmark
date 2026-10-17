@@ -11,7 +11,7 @@ ALCBenchmark = {}
 local AB = ALCBenchmark
 
 local NAME = "ALCBenchmark"
-AB.VERSION = "2026.10.15.14.36"
+AB.VERSION = "2026.10.18.01.41"
 local THEME = LibAPH.THEME
 local GS = {}
 local TIMING = {
