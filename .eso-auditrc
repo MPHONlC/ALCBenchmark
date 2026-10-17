@@ -1,0 +1,8 @@
+libraries = {
+	"LibAPH",
+}
+
+globals = {
+	"ALCBenchmark",
+	"ALCBenchmarkResults",
+}
